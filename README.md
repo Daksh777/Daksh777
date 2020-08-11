@@ -1,6 +1,6 @@
 # Hi, I'm Daksh P. Jain
 
-<img src="https://raw.githubusercontent.com/Daksh777/Daksh777/master/IMG_20200702_210950865%20(1).png" alt="banner that contains my logo superimposed on my laptop's keyboard">
+<img src="https://raw.githubusercontent.com/Daksh777/Daksh777/master/IMG_20200702_210950865.png" alt="banner that contains my logo superimposed on my laptop's keyboard">
 
 I'm a beginner programmer and a passionate photographer from New Delhi, India. I know HTML/CSS, a bit of JS and currently learning Python. I love Material Design, Fluent Design, Android and animals.
 ## Projects & Contributions
