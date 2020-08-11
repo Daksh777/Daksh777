@@ -6,6 +6,7 @@ I'm a beginner programmer and a passionate photographer from New Delhi, India. I
 ## Projects & Contributions
 - My website: https://github.com/Daksh777/daksh-website
 - Retro Music Player's team member: https://github.com/h4h13/RetroMusicPlayer
+- Antispam bot, a Telegram bot which blocks t.me/joinchat links - https://github.com/Daksh777/antispambot
 ## Find me
 - Telegram: [@Daksh777](https://t.me/Daksh777)
 - Discord: Daksh777#7688
