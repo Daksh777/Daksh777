@@ -4,7 +4,7 @@
 
 I'm a beginner programmer and a passionate photographer from New Delhi, India. I know HTML/CSS, a bit of JS and currently learning Python. I love Material Design, Fluent Design, Android and animals.
 ## Projects & Contributions
-- My website: https://github.com/Daksh777/daksh-website
+- My website: https://github.com/Daksh777/website
 - Retro Music Player's team member: https://github.com/h4h13/RetroMusicPlayer
 - Antispam bot, a Telegram bot which blocks t.me/joinchat links: https://github.com/Daksh777/antispambot
 - [Windows 10 Debloater](https://github.com/daksh777/windows10-debloat): A collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations.
