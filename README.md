@@ -11,6 +11,6 @@ I'm a beginner programmer and a passionate photographer from New Delhi, India. I
 ## Find me
 - Telegram: [@Daksh777](https://t.me/Daksh777)
 - Discord: Daksh777#7688
-- Website: https://dakshpjain.eu.org
+- Website: https://daksh.eu.org
 - Email: contact@dakshpjain.eu.org
 - Steam: [@Daksh777](https://steamcommunity.com/id/daksh777)
