@@ -15,7 +15,7 @@ I love listening to music with my favorite genres being [hardbass](https://open.
 
 ---
 <p align="center">
-  <a href="https://daksh.eu.org" target="_blank"><img src="icons/DakshLogo.svg" height="30" width="40" /></a>
+  <a href="https://daksh.eu.org" target="_blank"><img src="icons/DakshLogo.svg" height="30" width="30" /></a>
   <a href="mailto:contact@daksh.eu.org" target="_blank"><img src="icons/gmail.svg" height="32" width="40" /></a>
   <a href="https://t.me/Daksh777" target="_blank"><img src="icons/telegram.svg" height="32" width="40" /></a>
   <a href="https://dev.to/daksh777" target="_blank"><img src="icons/dev-icon.svg" height="35" width="40" /></a>
