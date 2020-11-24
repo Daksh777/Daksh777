@@ -17,9 +17,9 @@
 - Contributor to Retro Music Player: [h4h13/RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
 - Antispam bot, a Telegram bot which blocks t.me/joinchat links: [Daksh777/antispambot](https://github.com/Daksh777/antispambot)
 
----
-<p align="center">
-  <a href="https://daksh.eu.org" target="_blank"><img src="icons/DakshLogo.svg" height="30" width="30" /></a>
-  <a href="mailto:contact@daksh.eu.org" target="_blank"><img src="icons/gmail.svg" height="32" width="40" /></a>
-  <a href="https://t.me/Daksh777" target="_blank"><img src="icons/telegram.svg" height="32" width="40" /></a>
-  <a href="https://dev.to/daksh777" target="_blank"><img src="icons/dev-icon.svg" height="35" width="40" /></a>
+## Find Me:
+
+[<img align="left" alt="https://daksh.eu.org" width="22px" src="icons/DakshLogo.svg" />](https://daksh.eu.org)
+[<img align="left" alt="https://t.me/Daksh777" width="28px" src="icons/telegram.svg" />](https://t.me/Daksh777)
+[<img align="left" alt="https://dev.to/Daksh777" width="28px" src="icons/dev-icon.svg" />](https://dev.to/Daksh777)
+[<img align="left" alt="contact@daksh.eu.org" width="28px" src="icons/gmail.svg" />](mailto:contact@daksh.eu.org)
