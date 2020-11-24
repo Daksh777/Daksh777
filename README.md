@@ -11,7 +11,7 @@
 - I love listening to music with my favorite genres being [hardbass](https://open.spotify.com/playlist/5O4BN8XwbxQVnXvejhsYFY?si=1zXCD4PDTc2Oy2RqcDn5GQ), [hip-hop](https://open.spotify.com/playlist/6jsDavkorV92YGC3Jcu5N3?si=kSTeCUR4Si6GrBjn17y7dQ) and [electric](https://open.spotify.com/playlist/1RLhBU90PTkSb3Bt0gzXim?si=hHhgqxf7RSOzSjhOAjhtRg).
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daksh777)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daksh777&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Projects & Contributions
 - Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
