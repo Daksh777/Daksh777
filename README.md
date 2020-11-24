@@ -11,6 +11,8 @@
 - I love listening to music with my favorite genres being [hardbass](https://open.spotify.com/playlist/5O4BN8XwbxQVnXvejhsYFY?si=1zXCD4PDTc2Oy2RqcDn5GQ), [hip-hop](https://open.spotify.com/playlist/6jsDavkorV92YGC3Jcu5N3?si=kSTeCUR4Si6GrBjn17y7dQ) and [electric](https://open.spotify.com/playlist/1RLhBU90PTkSb3Bt0gzXim?si=hHhgqxf7RSOzSjhOAjhtRg).
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=daksh777&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Projects & Contributions
 - Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
 - My website: [Daksh777/website](https://github.com/Daksh777/website)
@@ -23,3 +25,7 @@
 [<img align="left" alt="https://t.me/Daksh777" width="28px" src="icons/telegram.svg" />](https://t.me/Daksh777)
 [<img align="left" alt="https://dev.to/Daksh777" width="24px" src="icons/dev-icon.svg" />](https://dev.to/Daksh777)
 [<img align="left" alt="contact@daksh.eu.org" width="28px" src="icons/gmail.svg" />](mailto:contact@daksh.eu.org)
+<br />
+
+---
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v1s5r9ejp2oa9t6t22vhck6tt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v1s5r9ejp2oa9t6t22vhck6tt&redirect=true)
