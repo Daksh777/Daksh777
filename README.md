@@ -21,5 +21,5 @@
 
 [<img align="left" alt="https://daksh.eu.org" width="22px" src="icons/DakshLogo.svg" />](https://daksh.eu.org)
 [<img align="left" alt="https://t.me/Daksh777" width="28px" src="icons/telegram.svg" />](https://t.me/Daksh777)
-[<img align="left" alt="https://dev.to/Daksh777" width="28px" src="icons/dev-icon.svg" />](https://dev.to/Daksh777)
+[<img align="left" alt="https://dev.to/Daksh777" width="24px" src="icons/dev-icon.svg" />](https://dev.to/Daksh777)
 [<img align="left" alt="contact@daksh.eu.org" width="28px" src="icons/gmail.svg" />](mailto:contact@daksh.eu.org)
