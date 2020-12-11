@@ -16,6 +16,7 @@
 - My website: [Daksh777/website](https://github.com/Daksh777/website)
 - Contributor to Retro Music Player: [h4h13/RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
 - Antispam bot, a Telegram bot which blocks t.me/joinchat links: [Daksh777/antispambot](https://github.com/Daksh777/antispambot)
+- SpicetifyTheme, a custom Spotify theme using Spicetify CLI: [Daksh777/SpicetifyTheme](https://github.com/Daksh777/SpicetifyTheme)
 
 ## Find Me:
 
