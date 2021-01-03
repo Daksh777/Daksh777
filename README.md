@@ -17,6 +17,7 @@
 - Contributor to Retro Music Player: [h4h13/RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
 - Antispam bot, a Telegram bot which blocks t.me/joinchat links: [Daksh777/antispambot](https://github.com/Daksh777/antispambot)
 - SpicetifyTheme, a custom Spotify theme using Spicetify CLI: [Daksh777/SpicetifyTheme](https://github.com/Daksh777/SpicetifyTheme)
+- SpotifyNoPremium, a custom Spotify theme which removes Spotify's "Upgrade" button using Spicetify CLI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
 
 ## Find Me:
 
