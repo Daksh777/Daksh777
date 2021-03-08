@@ -14,6 +14,7 @@
 ## Projects & Contributions
 - Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
 - My website: [Daksh777/website](https://github.com/Daksh777/website)
+- My old website: [Daksh777/old-website](https://github.com/Daksh777/old-website)
 - Contributor to Retro Music Player: [h4h13/RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
 - Antispam bot, a Telegram bot which blocks t.me/joinchat links: [Daksh777/antispambot](https://github.com/Daksh777/antispambot)
 - SpicetifyTheme, a custom Spotify theme using Spicetify CLI: [Daksh777/SpicetifyTheme](https://github.com/Daksh777/SpicetifyTheme)
