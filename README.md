@@ -8,7 +8,7 @@
 - I know HTML, CSS, a bit of JS and currently learning Python.
 - I love Material Design, Fluent Design and Android.
 - I also love playing chess.
-- I love listening to music with my favorite genres being [hardbass](https://open.spotify.com/playlist/5O4BN8XwbxQVnXvejhsYFY?si=1zXCD4PDTc2Oy2RqcDn5GQ), [hip-hop](https://open.spotify.com/playlist/6jsDavkorV92YGC3Jcu5N3?si=kSTeCUR4Si6GrBjn17y7dQ) and [electric](https://open.spotify.com/playlist/1RLhBU90PTkSb3Bt0gzXim?si=hHhgqxf7RSOzSjhOAjhtRg).
+- I love listening to music with my favorite genres being [hardbass](https://open.spotify.com/playlist/5O4BN8XwbxQVnXvejhsYFY?si=1zXCD4PDTc2Oy2RqcDn5GQ) and [Romanian pop](https://open.spotify.com/playlist/0O1PytZfZvI8VzAO7yod07?si=gIc127YKRTaj65EWx2g4PQ).
 <br />
 
 ## Projects & Contributions
