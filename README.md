@@ -3,13 +3,12 @@
 <img src="https://raw.githubusercontent.com/Daksh777/Daksh777/master/banner.png" alt="banner that contains my logo superimposed on my laptop's keyboard">
 
 ## About Me
-- I'm a beginner programmer and a passionate photographer from New Delhi, India.
-- I'm an animal lover.
-- I know HTML, CSS, a bit of JS and currently learning Python.
-- I love Material Design, Fluent Design and Android.
-- I also love playing chess.
-- I love listening to music with my favorite genres being [hardbass](https://open.spotify.com/playlist/5O4BN8XwbxQVnXvejhsYFY?si=1zXCD4PDTc2Oy2RqcDn5GQ) and [Romanian pop](https://open.spotify.com/playlist/0O1PytZfZvI8VzAO7yod07?si=gIc127YKRTaj65EWx2g4PQ).
-<br />
+- I'm a beginner programmer and a student from New Delhi, India.
+- I know HTML, CSS, very little JavaScript and I'm currently learning Python. I also have knowledge about Android development (Custom ROMs, rooting, theming, etc.)
+- I'm also a passionate photographer (or mobile photographer) and I usually take photos of still scenes and animals.- 
+- I love the English language and my CEFR level is C1.
+- I also love listening to music with my favorite genres being [hardbass](https://open.spotify.com/playlist/34y5khukZLcDN2kMkzbLY1?si=VSLnd3_2SrG9zss9T18aAw) and [Romanian pop](https://open.spotify.com/playlist/0O1PytZfZvI8VzAO7yod07?si=E_0_dmYQTZOh2UP1V7LBAA).
+- I also run a few Telegram channels which can be found at @aboutdaksh.
 
 ## Projects & Contributions
 - Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
