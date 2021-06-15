@@ -43,4 +43,8 @@
 <br />
 
 ---
+<details>
+  <summary> GitHub Stats </summary>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=daksh777&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
