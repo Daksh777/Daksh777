@@ -18,28 +18,28 @@
 - SpotifyNoPremium, a modified Spotify stock theme that removes Spotify's clutter using Spicetify CLI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
 
 ## Software & Technologies
-[<img align="left" alt="Git" width="30px" src="icons/git.svg" />](https:// "Git")
-<img align="left" alt="GitHub" width="30px" src="icons/github.svg" /></img>
-<img align="left" alt="Python" width="30px" src="icons/python.svg" /></img>
-<img align="left" alt="HTML5" width="30px" src="icons/html.svg" /></img>
-<img align="left" alt="CSS3" width="30px" src="icons/css.svg" /></img>
-<img align="left" alt="Bootstrap" width="30px" src="icons/bootstrap.svg" /></img>
-<img align="left" alt="Visual Studio Code" width="30px" src="icons/vsc.svg" /></img>
-<img align="left" alt="Heroku" width="30px" src="icons/heroku.svg" /></img>
-<img align="left" alt="Figma" width="22px" src="icons/figma.svg" /></img>
-<img align="left" alt="Photoshop" width="30px" src="icons/photoshop.svg" /></img>
-<img align="left" alt="Powershell Scripting" width="30px" src="icons/powershell.svg" /></img>
-<img align="left" alt="Bash Scripting" width="30px" src="icons/bash.svg" /></img>
-<img align="left" alt="Android Studio" width="30px" src="icons/androidstudio.svg" /></img>
-<img align="left" alt="Raspberry Pi" width="30px" src="icons/raspberrypi.svg" /></img>
+[<img align="left" alt="Git" width="30px" src="icons/git.svg" />](/ "Git")
+[<img align="left" alt="GitHub" width="30px" src="icons/github.svg" />](/ "GitHub")
+[<img align="left" alt="Python" width="30px" src="icons/python.svg" />](/ "Python")
+[<img align="left" alt="HTML5" width="30px" src="icons/html.svg" />](/ "HTML5")
+[<img align="left" alt="CSS3" width="30px" src="icons/css.svg" />](/ "CSS3")
+[<img align="left" alt="Bootstrap" width="30px" src="icons/bootstrap.svg" />](/ "Bootstrap")
+[<img align="left" alt="Visual Studio Code" width="30px" src="icons/vsc.svg" />](/ "Visual Studio Code")
+[<img align="left" alt="Heroku" width="30px" src="icons/heroku.svg" />](/ "Heroku")
+[<img align="left" alt="Figma" width="22px" src="icons/figma.svg" />](/ "Figma")
+[<img align="left" alt="Photoshop" width="30px" src="icons/photoshop.svg" />](/ "Photoshop")
+[<img align="left" alt="Powershell Scripting" height="30px" width="30px" src="icons/powershell.svg" />](/ "Powershell Scripting")
+[<img align="left" alt="Bash Scripting" width="30px" src="icons/bash.svg" />](/ "Bash Scripting")
+[<img align="left" alt="Android Studio" width="30px" src="icons/androidstudio.svg" />](/ "Android Studio")
+[<img align="left" alt="Raspberry Pi" width="30px" src="icons/raspberrypi.svg" />](/ "Raspberry Pi")
 <br>
-<br>
+
 ## Find Me:
 
 [<img align="left" alt="https://daksh.eu.org" width="22px" src="icons/DakshLogo.svg" />](https://daksh.eu.org)
 [<img align="left" alt="https://t.me/Daksh777" width="28px" src="icons/telegram.svg" />](https://t.me/Daksh777)
 [<img align="left" alt="https://instagram.com/daksh_eu_org" width="30px" src="icons/instagram.svg" />](https://instagram.com/daksh_eu_org)
-[<img align="left" alt="contact@daksh.eu.org" width="28px" src="icons/gmail.svg" />](mailto:contact@daksh.eu.org)
+[<img align="left" alt="contact@daksh.eu.org" height="30px" width="30px" src="icons/gmail.svg" />](mailto:contact@daksh.eu.org)
 <br />
 
 ---
