@@ -6,7 +6,7 @@
 - I'm a beginner programmer and a student from New Delhi, India.
 - I know HTML, CSS, very little JavaScript and I'm currently learning Python. I also have knowledge about Android development (Custom ROMs, rooting, theming, etc.)
 - I'm also a passionate photographer (or mobile photographer) and I usually take photos of still scenes and animals.- 
-- I love the English language and my CEFR level is C1.
+- I love the English language and my CEFR level is C1. I'm also learning German currently.
 - I also love listening to music with my favorite genres being [German](https://open.spotify.com/playlist/2I6QOUXFekJHdaOSd0u50g?si=e456900b954b49ba) and [Romanian pop](https://open.spotify.com/playlist/0O1PytZfZvI8VzAO7yod07?si=E_0_dmYQTZOh2UP1V7LBAA).
 
 ## Projects & Contributions
