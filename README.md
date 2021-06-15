@@ -17,6 +17,23 @@
 - Antispam bot, a Telegram bot which blocks t.me/joinchat links: [Daksh777/antispambot](https://github.com/Daksh777/antispambot)
 - SpotifyNoPremium, a modified Spotify stock theme that removes Spotify's clutter using Spicetify CLI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
 
+## Software & Technologies
+<img align="left" alt="Git" width="30px" src="icons/git.svg" /></img>
+<img align="left" alt="GitHub" width="30px" src="icons/github.svg" /></img>
+<img align="left" alt="Python" width="30px" src="icons/python.svg" /></img>
+<img align="left" alt="HTML5" width="30px" src="icons/html.svg" /></img>
+<img align="left" alt="CSS3" width="30px" src="icons/css.svg" /></img>
+<img align="left" alt="Bootstrap" width="30px" src="icons/bootstrap.svg" /></img>
+<img align="left" alt="Visual Studio Code" width="30px" src="icons/vsc.svg" /></img>
+<img align="left" alt="Heroku" width="30px" src="icons/heroku.svg" /></img>
+<img align="left" alt="Figma" width="22px" src="icons/figma.svg" /></img>
+<img align="left" alt="Photoshop" width="30px" src="icons/photoshop.svg" /></img>
+<img align="left" alt="Powershell Scripting" width="30px" src="icons/powershell.svg" /></img>
+<img align="left" alt="Bash Scripting" width="30px" src="icons/bash.svg" /></img>
+<img align="left" alt="Android Studio" width="30px" src="icons/androidstudio.svg" /></img>
+<img align="left" alt="Raspberry Pi" width="30px" src="icons/raspberrypi.svg" /></img>
+<br>
+<br>
 ## Find Me:
 
 [<img align="left" alt="https://daksh.eu.org" width="22px" src="icons/DakshLogo.svg" />](https://daksh.eu.org)
