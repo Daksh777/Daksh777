@@ -24,6 +24,7 @@
 [<img align="left" alt="HTML5" width="30px" src="icons/html.svg" />](/ "HTML5")
 [<img align="left" alt="CSS3" width="30px" src="icons/css.svg" />](/ "CSS3")
 [<img align="left" alt="Bootstrap" width="30px" src="icons/bootstrap.svg" />](/ "Bootstrap")
+[<img align="left" alt="Ubuntu" width="30px" src="icons/ubuntu.svg" />](/ "Ubuntu")
 [<img align="left" alt="Visual Studio Code" width="30px" src="icons/vsc.svg" />](/ "Visual Studio Code")
 [<img align="left" alt="Heroku" width="30px" src="icons/heroku.svg" />](/ "Heroku")
 [<img align="left" alt="Figma" width="22px" src="icons/figma.svg" />](/ "Figma")
