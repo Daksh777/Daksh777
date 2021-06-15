@@ -34,7 +34,7 @@
 [<img align="left" alt="Raspberry Pi" width="30px" src="icons/raspberrypi.svg" />](/ "Raspberry Pi")
 <br>
 
-## Find Me:
+## Find Me
 
 [<img align="left" alt="https://daksh.eu.org" width="22px" src="icons/DakshLogo.svg" />](https://daksh.eu.org)
 [<img align="left" alt="https://t.me/Daksh777" width="28px" src="icons/telegram.svg" />](https://t.me/Daksh777)
