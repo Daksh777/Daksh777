@@ -18,7 +18,7 @@
 - SpotifyNoPremium, a modified Spotify stock theme that removes Spotify's clutter using Spicetify CLI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
 
 ## Software & Technologies
-<img align="left" alt="Git" width="30px" src="icons/git.svg" /></img>
+[<img align="left" alt="Git" width="30px" src="icons/git.svg" />](https:// "Git")
 <img align="left" alt="GitHub" width="30px" src="icons/github.svg" /></img>
 <img align="left" alt="Python" width="30px" src="icons/python.svg" /></img>
 <img align="left" alt="HTML5" width="30px" src="icons/html.svg" /></img>
