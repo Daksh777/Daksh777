@@ -37,10 +37,10 @@
 
 ## Find Me
 
-[<img align="left" alt="https://daksh.eu.org" width="22px" src="icons/DakshLogo.svg" />](https://daksh.eu.org)
-[<img align="left" alt="https://t.me/Daksh777" width="28px" src="icons/telegram.svg" />](https://t.me/Daksh777)
-[<img align="left" alt="https://instagram.com/daksh_eu_org" width="30px" src="icons/instagram.svg" />](https://instagram.com/daksh_eu_org)
-[<img align="left" alt="contact@daksh.eu.org" height="30px" width="30px" src="icons/gmail.svg" />](mailto:contact@daksh.eu.org)
+[![Website](https://img.shields.io/badge/WEBSITE-E34F26?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAABgAAAAYADwa0LPAAABt0lEQVRIx9WVv04UURjFz2yCD0CgIECBFVIur0DIUu26Cb6BNpoVe01sF58BGhIKaZZS3wEqQCLrgmZjo6EUhcQfxZ6JH8tldzA0nOTmmzn33PPN/feNdN+RDeoEHkiqSqpJKkuadldX0q6klqRWlmXnt84M1IE2w9EG6rcxLgGrwWAP+ObnD24AJ8BB0L0DSkUSND3gF/AcmAb+AOfALPDIz7+BKaABnHnM6jDzx8F8wdxbc++DbsvcG78vhiS1m8xHgCOLXgQ+X4ZK4CrmdgPXMNfx4biW4EmBDS2K5dw3bkp6av+HamoGn529HLhn5tYS+nX3PQ1c2dxhagYTjp3AjTr+THzljz6NJB07TqYSpIBj6sZnfZqIv6kE3x0fBu7UcSxhMt6nkaSZPq8ra7p5h6doIzWDlu4O26kZxIvWCPx+4qItmdsJ3Iq5L8mLZlHdojNg0VxeKraCLi8Vr/1eoVebAKoaBHpVMU/ykqvFbs7twoaTwKtg3hy6eFwv15/4V64/ugF8BQ6DrkmRch0S1cKeDMLRoGUZ9sscUa9GVSXNS5pyV1fSjnonbzvLsovCX37vcAknHfpX/fQzSwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNy0wOFQxMjo0MTo0MSswMDowMKLsX/kAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDctMDhUMTI6NDE6NDErMDA6MDDTsedFAAAAAElFTkSuQmCC&logoColor=white)](https://daksh.eu.org)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Daksh777)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daksh_eu_org/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:contact@daksh.eu.org)
 <br />
 
 ---
