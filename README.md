@@ -13,7 +13,8 @@
 - Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
 - My website: [Daksh777/website](https://github.com/Daksh777/website)
 - My old website: [Daksh777/old-website](https://github.com/Daksh777/old-website)
-- Contributor to Retro Music Player: [h4h13/RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
+- Retro Music Player's website: [RetroMusicPlayer/RetroMusicPlayer.github.io](https://github.com/RetroMusicPlayer/retromusicplayer.github.io)
+- Member and contributor, Retro Music Player: [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 - Antispam bot, a Telegram bot which blocks t.me/joinchat links: [Daksh777/antispambot](https://github.com/Daksh777/antispambot)
 - SpotifyNoPremium, a modified Spotify stock theme that removes Spotify's clutter using Spicetify CLI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
 
