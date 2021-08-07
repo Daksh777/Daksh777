@@ -3,20 +3,18 @@
 <img src="https://raw.githubusercontent.com/Daksh777/Daksh777/master/banner.png" alt="banner that contains my logo superimposed on my laptop's keyboard">
 
 ## About Me
-- I'm a beginner programmer and a student from New Delhi, India.
-- I know HTML, CSS, very little JavaScript and I'm currently learning Python. I also have knowledge about Android development (Custom ROMs, rooting, theming, etc.)
-- I'm also a passionate photographer (or mobile photographer) and I usually take photos of still scenes and animals.- 
-- I love the English language and my CEFR level is C1. I'm also learning German currently.
+- I'm a self-taught beginner programmer, photographer and a student from New Delhi, India.
+- I know Python, HTML, CSS and very little JavaScript. I also have interests in Android development (Custom ROMs, rooting, theming, etc.)
+- I love the English language and my CEFR level is C1.1 and I'm also learning German.
 - I also love listening to music with my favorite genres being [German](https://open.spotify.com/playlist/2I6QOUXFekJHdaOSd0u50g?si=e456900b954b49ba) and [Romanian pop](https://open.spotify.com/playlist/0O1PytZfZvI8VzAO7yod07?si=E_0_dmYQTZOh2UP1V7LBAA).
 
 ## Projects & Contributions
 - Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
 - My website: [Daksh777/website](https://github.com/Daksh777/website)
-- My old website: [Daksh777/old-website](https://github.com/Daksh777/old-website)
 - Retro Music Player's website: [RetroMusicPlayer/RetroMusicPlayer.github.io](https://github.com/RetroMusicPlayer/retromusicplayer.github.io)
-- Member and contributor, Retro Music Player: [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-- Antispam bot, a Telegram bot which blocks t.me/joinchat links: [Daksh777/antispambot](https://github.com/Daksh777/antispambot)
 - SpotifyNoPremium, a modified Spotify stock theme that removes Spotify's clutter using Spicetify CLI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
+- My old website: [Daksh777/old-website](https://github.com/Daksh777/old-website)
+- Member and contributor, Retro Music Player: [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 
 ## Software & Technologies
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
