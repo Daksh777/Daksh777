@@ -4,9 +4,9 @@
 
 ## About Me
 - I'm a self-taught beginner programmer, photographer and a student from New Delhi, India.
-- I know Python, HTML, CSS and very little JavaScript. I also have interests in Android development (Custom ROMs, rooting, theming, etc.)
-- I love the English language and my CEFR level is C1.1 and I'm also learning German.
-- I also love listening to music with my favorite genres being [German](https://open.spotify.com/playlist/2I6QOUXFekJHdaOSd0u50g?si=e456900b954b49ba) and [Romanian pop](https://open.spotify.com/playlist/0O1PytZfZvI8VzAO7yod07?si=E_0_dmYQTZOh2UP1V7LBAA).
+- I know Python, HTML, CSS and a bit of JavaScript. I have also worked with web frameworks like Bootstrap and Tailwind.
+- I also have knowledge about Android development (Custom ROMs, rooting, theming, etc.), graphic designing (Figma & Adobe Photoshop) and video editing.
+- I love the English language and I'm also learning German.
 
 ## Projects & Contributions
 - Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
