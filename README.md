@@ -9,6 +9,7 @@
 - I love the English language and I'm also learning German.
 
 ## Projects & Contributions
+- Expressando, a rock, paper, scissors game made using Python (TensorFlow, Keras and OpenCV): [Daksh777/Expressando](https://github.com/Daksh777/Expressando)
 - Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
 - My website: [Daksh777/website](https://github.com/Daksh777/website)
 - Retro Music Player's website: [RetroMusicPlayer/RetroMusicPlayer.github.io](https://github.com/RetroMusicPlayer/retromusicplayer.github.io)
