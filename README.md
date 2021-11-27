@@ -11,9 +11,11 @@
 
 ## Projects & Contributions
 - Expressando, a rock, paper, scissors game made using Python (TensorFlow, Keras and OpenCV): [Daksh777/Expressando](https://github.com/Daksh777/Expressando)
-- Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
+- Take A Break - A productivity tool to tackle procrastination by using self-destructing tabs and boosting your productivity: [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
 - My website: [Daksh777/website](https://github.com/Daksh777/website)
 - Retro Music Player's website: [RetroMusicPlayer/RetroMusicPlayer.github.io](https://github.com/RetroMusicPlayer/retromusicplayer.github.io)
+- Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
+
 - SpotifyNoPremium, a modified Spotify stock theme that removes Spotify's clutter using Spicetify CLI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
 - My old website: [Daksh777/old-website](https://github.com/Daksh777/old-website)
 - Member and contributor, Retro Music Player: [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
