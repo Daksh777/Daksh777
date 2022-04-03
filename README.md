@@ -3,22 +3,24 @@
 <img src="https://raw.githubusercontent.com/Daksh777/Daksh777/master/banner.png" alt="banner that contains my logo superimposed on my laptop's keyboard">
 
 ## About Me
-- I'm a self-taught programmer, photographer and student from New Delhi, India
-- I'm currently learning Django and I know Python, CSS & HTML.
-- I also know the basics of Google Cloud Platform and Docker & Kubernetes on Google Cloud Platform.
-- I have worked with web frameworks like Bootstrap and graphic designing tools like Figma & Photoshop.
+- I'm a self-taught programmer, beginner photographer and student.
+- Currently learning JavaScript and I know Python, CSS & HTML.
+- I love open source and have been contributing to open source for over 2 years.
+- Previously worked with Bootstrap, Tensorflow, Numpy, OpenCV and basics of GCP and Docker & Kubernetes on GCP.
 - I'm also learning German.
 
 ## Projects & Contributions
+
+- Take A Break, a productivity tool to tackle procrastination by using self-destructing tabs and boosting your productivity: [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
+- Sign Language Detector, A sign language detector made with TensorFlow, Keras and OpenCV: [Daksh777/sign-language-detector](https://github.com/Daksh777/sign-language-detector)
 - Expressando, a rock, paper, scissors game made using Python (TensorFlow, Keras and OpenCV): [Daksh777/Expressando](https://github.com/Daksh777/Expressando)
-- Take A Break - A productivity tool to tackle procrastination by using self-destructing tabs and boosting your productivity: [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
 - My website: [Daksh777/website](https://github.com/Daksh777/website)
 - Retro Music Player's website: [RetroMusicPlayer/RetroMusicPlayer.github.io](https://github.com/RetroMusicPlayer/retromusicplayer.github.io)
-- Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
-
-- SpotifyNoPremium, a modified Spotify stock theme that removes Spotify's clutter using Spicetify CLI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
-- My old website: [Daksh777/old-website](https://github.com/Daksh777/old-website)
+- PatternHouse's website, the destination for all programming pattern problems and solutions: [openAOD/Central](https://github.com/Daksh777/sign-language-detector)
+- SpotifyNoPremium, a cross-platform Spicetify theme which removes all Spotify ads (audio, banner, popup, etc.) and declutters the stock UI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
 - Member and contributor, Retro Music Player: [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
+- Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
+- My old website: [Daksh777/old-website](https://github.com/Daksh777/old-website)
 
 ## Software & Technologies
 
