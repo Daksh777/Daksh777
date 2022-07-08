@@ -4,7 +4,7 @@
 
 ## About Me
 - I'm a self-taught programmer, beginner photographer and student.
-- Currently learning JavaScript and I know Python, CSS & HTML.
+- Currently learning Solidity & JavaScript and I know Python, CSS & HTML.
 - I love open source and have been contributing to open source for over 2 years.
 - Previously worked with Bootstrap, Tensorflow, Numpy, OpenCV and basics of GCP and Docker & Kubernetes on GCP.
 - I'm also learning German.
