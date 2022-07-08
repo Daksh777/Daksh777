@@ -11,7 +11,7 @@
 
 ## Projects & Contributions
 
-- COVID Tools: Computer vision tools based on COVID-related applications.
+- COVID Toolsm Computer vision based tools based on COVID-related applications: [Daksh777/COVID-Tools](https://github.com/Daksh777/COVID-Tools)
 - Take A Break, a productivity tool to tackle procrastination by using self-destructing tabs and boosting your productivity: [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
 - Sign Language Detector, A sign language detector made with TensorFlow, Keras and OpenCV: [Daksh777/sign-language-detector](https://github.com/Daksh777/sign-language-detector)
 - Expressando, a rock, paper, scissors game made using Python (TensorFlow, Keras and OpenCV): [Daksh777/Expressando](https://github.com/Daksh777/Expressando)
