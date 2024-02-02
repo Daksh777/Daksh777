@@ -3,23 +3,25 @@
 <img src="https://raw.githubusercontent.com/Daksh777/Daksh777/master/banner.png" alt="banner that contains my logo superimposed on my laptop's keyboard">
 
 ## About Me
-- I'm a self-taught programmer, beginner photographer and student.
-- Currently learning Solidity & JavaScript and I know Python, CSS & HTML.
-- I love open source and have been contributing to open source for over 2 years.
-- Previously worked with Bootstrap, Tensorflow, Numpy, OpenCV and basics of GCP and Docker & Kubernetes on GCP.
+- I am a Python and web developer with experience in open source, community organizing, event planning, and operations management.
+- I have worked with technologies such as Python, JavaScript, OpenCV, Keras, and TensorFlow, and have earned certifications in DevOps in Google Cloud and Google Cloud Essentials.
+- I am part of the organizing team at PyDelhi, where I lead the design, communication, and social media team.
+- I have organized tech events such as CodeDay Delhi 2022 - Delhi's largest coding event/hackathon for high schoolers/
+- I am a volunteer at Google Developer Group New Delhi
+- In addition, I am a Linux Foundation Scholar and was a Project Admin at GirlScript Summer of Code 2022
 - I'm also learning German.
 
 ## Projects & Contributions
 
-- COVID Tools, computer vision based tools based on COVID-related applications: [Daksh777/COVID-Tools](https://github.com/Daksh777/COVID-Tools)
+- SpotifyNoPremium, a cross-platform Spicetify theme which removes all Spotify ads (audio, banner, popup, etc.) and declutters the stock UI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
+- Member and contributor, Retro Music Player: [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
+- Retro Music Player's website: [RetroMusicPlayer/RetroMusicPlayer.github.io](https://github.com/RetroMusicPlayer/retromusicplayer.github.io)
 - Take A Break, a productivity tool to tackle procrastination by using self-destructing tabs and boosting your productivity: [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
+- COVID Tools, computer vision based tools based on COVID-related applications: [Daksh777/COVID-Tools](https://github.com/Daksh777/COVID-Tools)
 - Sign Language Detector, A sign language detector made with TensorFlow, Keras and OpenCV: [Daksh777/sign-language-detector](https://github.com/Daksh777/sign-language-detector)
 - Expressando, a rock, paper, scissors game made using Python (TensorFlow, Keras and OpenCV): [Daksh777/Expressando](https://github.com/Daksh777/Expressando)
 - My website: [Daksh777/website](https://github.com/Daksh777/website)
-- Retro Music Player's website: [RetroMusicPlayer/RetroMusicPlayer.github.io](https://github.com/RetroMusicPlayer/retromusicplayer.github.io)
 - PatternHouse's website, the destination for all programming pattern problems and solutions: [openAOD/Central](https://github.com/Daksh777/sign-language-detector)
-- SpotifyNoPremium, a cross-platform Spicetify theme which removes all Spotify ads (audio, banner, popup, etc.) and declutters the stock UI: [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
-- Member and contributor, Retro Music Player: [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 - Windows 10 Debloat, a collection of Powershell scripts, apps, and registry scripts to improve Windows 10 performance, security and optimisations: [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
 - My old website: [Daksh777/old-website](https://github.com/Daksh777/old-website)
 
