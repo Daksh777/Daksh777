@@ -35,8 +35,8 @@
 <table>
   <thead align="center">
     <tr border: none;">
-      <td><b> Projects</b></td>
-      <td><b> Description</b></td>
+      <td><b>💻 Projects</b></td>
+      <td><b>ℹ Description</b></td>
       <td><b>⭐ Stars</b></td>
     </tr>
   </thead>
