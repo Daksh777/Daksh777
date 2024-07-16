@@ -42,6 +42,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Daksh777/FlickPic"><b>FlickPic</b></a></td>
+      <td><p>Flickr content sharing website made with Django and HTMX</p></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Daksh777/FlickPic?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Daksh777/SpotifyNoPremium"><b>SpotifyNoPremium</b></a></td>
       <td><p>A cross-platform Spotify solution whch removes all Spotify ads (audio, banner, popup, etc.) and declutters the stock UI</p></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Daksh777/SpotifyNoPremium?style=flat-square&labelColor=343b41"/></td>
@@ -103,7 +108,7 @@
       <tr>
         <td><a href="https://github.com/Daksh777/old-website"><b>Old website</b></a></td>
         <td><p>My old website's source code</p></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Daksh777/windows10-debloat?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Daksh777/old-website?style=flat-square&labelColor=343b41"/></td>
       </tr>
     </tbody>
     </table>
