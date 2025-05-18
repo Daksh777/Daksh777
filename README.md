@@ -3,7 +3,18 @@
 <h1>Hey there!</h1>
 
 
-<p>I'm Daksh, a Python and JavaScript developer from New Delhi, India. I love open source and tinkering with tech. <br> When I'm not programming, you'll find me involved in tech communities and designing. <br>  I'm always on the lookout for new opportunities and things to learn, if you want to collaborate or have an idea, please feel free to contact me :)</p>
+Hey there, Daksh here!
+
+I'm a software engineer, and a freelance UI/UX and graphic designer. I enjoy building clean, efficient, and user-friendly experiences - whether through code, design, or both :)
+
+I work across backend, AI, and frontend technologies, and blend them with thoughtful design to create digital experiences that people love. My design focus includes UI/UX, branding, and visual storytelling.
+
+I also love open source and have contributed to projects that have gained significant traction.
+
+Beyond coding and design, I’m passionate about tech communities. I help organize PyDelhi, running events and conferences for Delhi's Python community.
+
+When I’m not coding or designing, I’m probably reading about psychology, exploring new tech, or writing my thoughts on Medium.
+Always happy to chat—feel free to reach out if you want to talk about tech, open source, design, or just cool ideas in general!
 
 ## Software & Technologies
 
