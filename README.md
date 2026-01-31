@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Daksh777/Daksh777/master/header.png">
+<img src="https://raw.githubusercontent.com/Daksh777/Daksh777/refs/heads/master/header.png">
 
 <h1>Hey there 👋</h1>
 
